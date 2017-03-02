@@ -1,2 +1,1 @@
-Hello Oleg!
-I'm happy to see you !
+Hello World!
